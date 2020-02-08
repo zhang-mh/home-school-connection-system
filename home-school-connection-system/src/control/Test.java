@@ -5,6 +5,6 @@ public class Test {
 		
 	}
 	void print1() {
-		
+		System.out.print("branch-1");
 	}
 }
